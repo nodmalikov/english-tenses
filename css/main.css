@@ -103,12 +103,7 @@ img {
     justify-content: center;
     border: 0;
     background-color: transparent;
-    transition: transform 0.3s ease;
     padding: 0;
-}
-
-.dark-button:active {
-    transform: scale(1.1);
 }
 
 .sun-icon {
